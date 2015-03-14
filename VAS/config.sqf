@@ -3,7 +3,7 @@ vas_onRespawn = true;
 //Preload Weapon Config?
 vas_preload = true;
 //If limiting weapons its probably best to set this to true so people aren't loading custom loadouts with restricted gear.
-vas_disableLoadSave = false;
+vas_disableLoadSave = true;
 //Amount of save/load slots
 vas_customslots = 14; //14 is actually 15 slots, starts from 0 to whatever you set, so always remember when setting a number to minus by 1, i.e 12 will be 11.
 //Disable 'VAS hasn't finished loading' Check !!! ONLY RECOMMENDED FOR THOSE THAT USE ACRE AND OTHER LARGE ADDONS !!!
