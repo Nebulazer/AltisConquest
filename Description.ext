@@ -1,6 +1,7 @@
 respawn = "BASE";
 respawnDelay = 3;
 disabledAI = 1;
+respawnOnStart = 1;
 
 //VIRTUAL AMMO
 #include "VAS\menu.hpp"
