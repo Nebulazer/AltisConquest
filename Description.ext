@@ -1,0 +1,18 @@
+respawn = "BASE";
+respawnDelay = 3;
+disabledAI = 1;
+
+//VIRTUAL AMMO
+#include "VAS\menu.hpp"
+class CfgFunctions
+{
+	#include "VAS\cfgfunctions.hpp"
+};
+
+//REVIVE
+#include "G_Revive\G_Desc_Include.hpp"
+
+//REARM
+#include "gvs\colors_include.hpp"
+#include "gvs\control_include.hpp"
+#include "gvs\stc_include.hpp"
