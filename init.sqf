@@ -21,4 +21,4 @@ player enableFatigue false;
 //[] execVM "G_Revive_init.sqf";
 
 //Rearm system
-execVM "gvs\gvs_init.sqf";
+//execVM "gvs\gvs_init.sqf";
