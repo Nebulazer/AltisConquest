@@ -1,0 +1,13 @@
+// Mission Header
+onLoadMission = "Zuff's Group Management Script";
+onLoadIntro = "Manage Groups on the fly!";
+onLoadIntroTime=false;
+onLoadMissionTime=false;
+loadScreen = "logo.paa";
+onLoadName ="GROUP MANAGEMENT";
+author = "Zuff";
+DisabledAI = true;
+
+Respawn = 2;
+RespawnDelay = 5;
+respawnDialog = 0;
