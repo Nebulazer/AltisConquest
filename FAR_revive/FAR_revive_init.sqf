@@ -20,7 +20,7 @@ FAR_MuteACRE = false;
 	1 = All units can revive
 	2 = Same as 1 but a medikit is required to revive
 */
-FAR_ReviveMode = 0;
+FAR_ReviveMode = 1;
 
 //------------------------------------------//
 

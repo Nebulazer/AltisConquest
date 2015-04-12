@@ -26,8 +26,8 @@ clearItemCargoGlobal _crate;
 //_crate addWeaponCargoGlobal ["arifle_TRG20_F", 50];
 //_crate addWeaponCargoGlobal ["arifle_TRG21_F", 50];
 //_crate addWeaponCargoGlobal ["arifle_TRG21_GL_F", 50];
-//_crate addWeaponCargoGlobal ["arifle_MSM_F", 50];
-_crate addWeaponCargoGlobal ["srifle_EBR_F", 2];
+_crate addWeaponCargoGlobal ["srifle_DMR_02_camo_F", 5];
+_crate addWeaponCargoGlobal ["Weapon_MMG_01_hex_F", 3];
 //_crate addWeaponCargoGlobal ["rhs_weap_m240B", 1];
 
 
@@ -50,8 +50,8 @@ _crate addWeaponCargoGlobal ["srifle_EBR_F", 2];
 //_crate addMagazineCargoGlobal ["30Rnd_65x39_caseless_mag_Tracer", 200];
 //_crate addMagazineCargoGlobal ["100Rnd_65x39_caseless_mag_Tracer", 200];
 //_crate addMagazineCargoGlobal ["30Rnd_65x39_caseless_mag_green", 200];
-//_crate addMagazineCargoGlobal ["30Rnd_65x39_case_mag", 200];
-_crate addMagazineCargoGlobal ["20Rnd_762x45_Mag", 5];
+_crate addMagazineCargoGlobal ["10Rnd_338_Mag", 20];
+_crate addMagazineCargoGlobal ["150Rnd_93x64_Mag", 20];
 //_crate addMagazineCargoGlobal ["16Rnd_9x21_Mag", 200];
 //_crate addMagazineCargoGlobal ["30Rnd_9x21_Mag", 200];
 //_crate addMagazineCargoGlobal ["20Rnd_556x45_UW_Mag", 200];
@@ -117,11 +117,11 @@ _crate addMagazineCargoGlobal ["20Rnd_762x45_Mag", 5];
 //_crate addItemCargoGlobal ["muzzle_snds_L", 50]; 
 //_crate addItemCargoGlobal ["muzzle_snds_B", 50]; 
 //_crate addItemCargoGlobal ["muzzle_snds_H_MG", 50]; 
-//_crate addItemCargoGlobal ["optic_Arco", 1]; 
+_crate addItemCargoGlobal ["optic_Arco", 10]; 
 //_crate addItemCargoGlobal ["optic_Hamr", 50]; 
 //_crate addItemCargoGlobal ["optic_Aco", 50]; 
-//_crate addItemCargoGlobal ["optic_ACO_grn",50]; 
-_crate addItemCargoGlobal ["optic_Holosight", 2]; 
+_crate addItemCargoGlobal ["Item_optic_KHS_tan",10]; 
+_crate addItemCargoGlobal ["optic_Holosight", 10]; 
 //_crate addItemCargoGlobal ["acc_flashlight", 50]; 
 //_crate addItemCargoGlobal ["acc_pointer_IR", 50];
 
